@@ -1,7 +1,7 @@
 var config = {
   tabData: {
     tab1: [
-      '2013-07-16 @ 16:35 IST (GMT+1)',
+      '2013-07-17 @ 10:51 IST (GMT+1)',
       'This app demonstrates how to use client-side packages to configure element positioning and present different UI themes.',
       'It also shows how to pull content from the cloud.',
       'Click through the other tabs for more information and tips.',
